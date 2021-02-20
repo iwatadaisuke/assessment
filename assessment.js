@@ -31,4 +31,4 @@ area');
     
     removeAllChildren(tweetDivided);
     const anchor = document.createElement('a');
-    const hrefValue = ''
+    const hrefValue = '
